@@ -1,0 +1,31 @@
+{
+  "source_catalog": "https://www.roblox.com/catalog/21070012/Dominus-Empyreus",
+  "mesh_asset_id": 21057410,
+  "input_triangles": 552,
+  "repaired_parts": 11,
+  "union_components": 1,
+  "vertices": 891,
+  "triangles": 1778,
+  "volume_mm3": 245875.87013221532,
+  "dimensions_mm": [
+    141.67056274414062,
+    125.79176330566406,
+    100.0
+  ],
+  "status": "Error.NoError",
+  "units": "mm",
+  "repairs": [
+    "Welded coincident source positions and removed collapsed faces.",
+    "Removed eight dangling zero-thickness triangles at feather bases.",
+    "Boolean union of hood, eight feathers, two buttons and eight 2.4 mm joins into one connected solid; merged rounding artifacts below 0.001 mm."
+  ],
+  "sha256": "e00c31fc1e985122cc65d5764b224e81a7de1afba3594b241c3694092f92da61",
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "join_diameter_mm": 2.4,
+  "joins": 8,
+  "bvh_candidate_pairs": 261,
+  "exact_self_intersection_test": "not performed; BVH candidate pairs alone are not a confirmed intersection test",
+  "slicer_validation": "Bambu Studio slicing and physical printing have not been tested"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "): Red Grind",
+  "catalog_asset_id": 20573086,
+  "mesh_asset_id": 16190466,
+  "texture_asset_id": 20572870,
+  "source_url": "https://www.roblox.com/catalog/20573086/Red-Grind",
+  "file": "red_grind_100mm.stl",
+  "units": "millimeters",
+  "dimensions_mm": [
+    71.61201,
+    100.0,
+    47.35839
+  ],
+  "vertices_welded": 262,
+  "triangles": 520,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "signed_volume_mm3": 38774.836164711356,
+  "nonadjacent_triangle_overlap_pairs": [],
+  "sha256": "d7295266704b3a6199b77813299c38c98f7fcea67a6f3a215d7387dc25b0c721",
+  "notes": [
+    "Original 520-triangle silhouette retained; coincident vertices welded and normals oriented outward.",
+    "Scaled to 100 mm front-to-back, converted from Y-up to Z-up, centered on XY, bottom at Z=0.",
+    "STL has no color/texture; the red graphics and black areas are texture-only.",
+    "Geometry checked in Blender; Bambu Studio slicing and physical printing have not been tested."
+  ]
+}
