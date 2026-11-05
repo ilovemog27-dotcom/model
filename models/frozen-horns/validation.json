@@ -1,0 +1,43 @@
+{
+  "name": "Frozen Horns of the Frigid Planes",
+  "catalog_asset_id": 74891470,
+  "source_url": "https://www.roblox.com/catalog/74891470/Frozen-Horns-of-the-Frigid-Planes",
+  "creator": "Roblox",
+  "creator_id": 1,
+  "limited": true,
+  "mesh_asset_id": 215680403,
+  "texture_asset_id": 658646189,
+  "mesh_version": "1.00",
+  "source_triangles": 2164,
+  "source_components": 16,
+  "source_boundary_edges": 0,
+  "source_nonmanifold_edges": 0,
+  "vertices": 2080,
+  "triangles": 4188,
+  "components": 1,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "volume_mm3": 7007.235384123857,
+  "dimensions_mm": [
+    100.0,
+    19.66350746154785,
+    71.56684112548828
+  ],
+  "units": "mm",
+  "sha256": "3a16bc31ed9fb6c09fa0b3d6e1bd09ffaf531e25ac476af8186aed15f30e1c78",
+  "stl_bytes": 209484,
+  "repairs": [
+    "Welded coincident corner positions and recalculated outward normals.",
+    "Boolean union of original overlapping horns and ring details.",
+    "Added a 3.2 mm diameter rounded connector across the lower horn bases to join both horns for one-piece printing.",
+    "Merged numerical rounding artifacts below 0.0005 mm."
+  ],
+  "geometry_notes": [
+    "Original fire is a Roblox Fire effect, not mesh geometry, and is not included in STL.",
+    "STL omits original texture and color."
+  ],
+  "bambu_studio_slicing_tested": false,
+  "physical_print_tested": false,
+  "exact_self_intersection_test": "not performed; closed topology and connectedness validated after STL reimport"
+}

@@ -1,0 +1,39 @@
+{
+  "catalog_asset_id": 10159610478,
+  "source_url": "https://www.roblox.com/catalog/10159610478/8-Bit-HP-Bar",
+  "mesh_asset_id": 10138542374,
+  "texture_asset_id": 10138542409,
+  "mesh_format": "2.00",
+  "source_triangles": 268,
+  "source_vertices": 520,
+  "vertices": 3632,
+  "triangles": 7264,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "components": 1,
+  "volume_mm3": 5096.120798181738,
+  "dimensions_mm": [
+    100.0,
+    4.2210693359375,
+    23.79569435119629
+  ],
+  "units": "mm",
+  "repairs": [
+    "Welded coincident source positions and oriented normals.",
+    "Gave16 open decorative panels0.8mm thickness.",
+    "Added one rectangular6.2x2.6x2.6mm join between the floating heart and bar.",
+    "Voxel-unioned and repaired coincident heart surfaces at0.12mm resolution, dissolved coplanar edges; normalized final longest dimension to100mm."
+  ],
+  "bambu_studio_slicing_tested": false,
+  "physical_print_tested": false,
+  "source_geometry_modified": true,
+  "thickened_panels": 16,
+  "join_count": 1,
+  "voxel_size_mm_before_normalization": 0.12,
+  "name": "8-Bit HP Bar",
+  "sha256": "37ed15b195c9e69afeda6ef696c78a2bb0c65f59fe0acb82939589400bc7ae42",
+  "stl_bytes": 363284,
+  "exact_self_intersection_test": "not performed",
+  "reimport_validation_passed": true
+}

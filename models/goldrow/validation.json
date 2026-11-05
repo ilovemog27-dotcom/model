@@ -1,0 +1,40 @@
+{
+  "catalog_asset_id": 3581868178,
+  "mesh_asset_id": 3581840063,
+  "texture_asset_id": 3581855125,
+  "source_format": "3.00",
+  "source_lod0_triangles": 528,
+  "source_total_lod_triangles": 886,
+  "lod_face_ranges": [
+    0,
+    528,
+    776,
+    886
+  ],
+  "vertices": 467,
+  "triangles": 946,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "components": 1,
+  "volume_mm3": 21954.449873934074,
+  "dimensions_mm": [
+    100.0,
+    23.5820369720459,
+    22.4384765625
+  ],
+  "units": "mm",
+  "repairs": [
+    "Selected highest-detail LOD0 from official Roblox binary v3 mesh.",
+    "Welded coincident face-corner vertices; recalculated outward normals.",
+    "Boolean union of source bars within each pile.",
+    "Added a 40 x 8 x 2.5 mm underside bridge between the two separate piles and two short 2.4 mm diameter posts under floating top bars."
+  ],
+  "bambu_studio_slicing_tested": false,
+  "name": "Goldrow",
+  "sha256": "c21b111c47b8ba1395ef403e5dc23efaaca7e8f90f149df763d16359e0a3cf47",
+  "stl_bytes": 47384,
+  "physical_print_tested": false,
+  "exact_self_intersection_test": "not performed",
+  "reimport_validation_passed": true
+}

@@ -1,0 +1,44 @@
+{
+  "catalog_asset_id": 1365767,
+  "mesh_asset_id": 1365696,
+  "texture_asset_id": 1365693,
+  "source_url": "https://www.roblox.com/catalog/1365767/Valkyrie-Helm",
+  "creator": "Roblox",
+  "limited": true,
+  "source_triangles": 1255,
+  "source_scale": [
+    1,
+    1,
+    1.14999998
+  ],
+  "source_offset": [
+    0,
+    0,
+    0
+  ],
+  "units": "mm",
+  "dimensions_mm": [
+    77.99677276611328,
+    100.0,
+    97.57431030273438
+  ],
+  "vertices": 1073,
+  "triangles": 2174,
+  "connected_components": 1,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "volume_mm3": 5353.513733315261,
+  "repairs": [
+    "Applied official nonuniform SpecialMesh scale; converted from Y-up to Z-up.",
+    "Welded coincident positions and filled four open boundary loops (five source triangles added).",
+    "Boolean-unioned overlapping source parts.",
+    "Added three small 1.6 mm diameter joins across gaps of 0.014-0.091 mm, creating one connected print solid.",
+    "Merged numerical artifacts smaller than 0.001 mm and recalculated normals."
+  ],
+  "exact_self_intersection_test": "not performed",
+  "bambu_studio_slicing_tested": false,
+  "physical_print_tested": false,
+  "sha256": "6c7233b1419e04b2e642846399c726b4ba19f0c7fca5b0b242f7d4ffc82c6674",
+  "stl_bytes": 108784
+}
