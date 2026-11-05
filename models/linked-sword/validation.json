@@ -1,0 +1,40 @@
+{
+  "catalog_asset_id": 125013769,
+  "source_url": "https://www.roblox.com/catalog/125013769/Linked-Sword",
+  "mesh_asset_id": 12221720,
+  "texture_asset_id": 12224218,
+  "source_triangles": 198,
+  "vertices": 101,
+  "triangles": 198,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "components": [
+    {
+      "vertices": 101,
+      "faces": 198
+    }
+  ],
+  "volume_mm3": 4419.478835012326,
+  "dimensions_mm": [
+    39.47846221923828,
+    150.0,
+    11.64561939239502
+  ],
+  "units": "mm",
+  "repairs": [
+    "Welded coincident source positions and recalculated outward normals."
+  ],
+  "bambu_studio_slicing_tested": false,
+  "nonadjacent_triangle_overlap_pairs": [],
+  "sha256": "2d7e9799cf0ccc2b93d9b4955decb4c9840145f2cca4992dc0eb5e1c92ae70d6",
+  "stl_bytes": 9984,
+  "reimported_vertices_welded": 101,
+  "reimported_triangles": 198,
+  "reimported_boundary_edges": 0,
+  "reimported_nonmanifold_edges": 0,
+  "reimported_degenerate_faces": 0,
+  "reimported_volume_mm3": 4419.478835012326,
+  "windows_powershell_conversion_tested": true,
+  "windows_powershell_max_geometry_difference_mm": 0.0
+}
