@@ -1,0 +1,41 @@
+{
+  "name": "8-Bit Royal Crown",
+  "catalog_asset_id": 10159600649,
+  "source_url": "https://www.roblox.com/catalog/10159600649/8-Bit-Royal-Crown",
+  "creator": "Roblox",
+  "is_limited": true,
+  "mesh_asset_id": 10138606900,
+  "texture_asset_id": 10138606949,
+  "source_mesh_version": "version 2.00",
+  "source_vertices": 4433,
+  "source_triangles": 2040,
+  "vertices": 30861,
+  "triangles": 61722,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "components": 1,
+  "volume_mm3": 21145.417474365848,
+  "dimensions_mm": [
+    100.0,
+    87.09544372558594,
+    43.42404556274414
+  ],
+  "units": "mm",
+  "bambu_studio_slicing_tested": false,
+  "repairs": [
+    "Welded source positions and applied official scale and offset.",
+    "Gave 12 open decorative panels 0.8 mm thickness.",
+    "Voxel-repaired coincident/intersecting pixel surfaces at 0.3 mm resolution.",
+    "Added 0 small 1.8 mm diameter joins where components were separated.",
+    "Final longest dimension normalized to 100 mm.",
+    "Simplified the voxel surface to keep the STL compact; small voxel edge rounding remains."
+  ],
+  "source_geometry_modified": true,
+  "glowing_particle_effect_included": false,
+  "sha256": "60ebeb1c4bdf7fa8673a665089d17068543e15c010c9262e52ce8866bde78994",
+  "stl_bytes": 3086184,
+  "physical_print_tested": false,
+  "exact_self_intersection_test": "not performed",
+  "reimport_validation_passed": true
+}

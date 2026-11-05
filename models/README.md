@@ -1,18 +1,18 @@
-# Roblox mesh conversions
+# Roblox STL collection
 
-STL files converted from official Roblox meshes, with source references and print-repair notes in each folder. Dimensions are millimeters. Colors and textures are not embedded in STL.
+[Download the five popular limiteds pack](popular-limiteds/five_popular_limiteds.zip) · [Selection and source details](popular-limiteds/README.md)
 
-| Model | STL | Size (mm) |
+| Model | Download | Size X × Y × Z (mm) |
 | --- | --- | --- |
-| Dominus Empyreus | [Download](dominus/dominus_empyreus_100mm.stl) | 141.67 × 125.79 × 100 |
-| Linked Sword | [Download](linked-sword/linked_sword_150mm.stl) | 39.48 × 150 × 11.65 |
-| Red Grind | [Download](red-grind/red_grind_100mm.stl) | 71.61 × 100 × 47.36 |
+| Dominus Empyreus | [STL](dominus/dominus_empyreus_100mm.stl) | 141.67 × 125.79 × 100.00 |
+| Linked Sword | [STL](linked-sword/linked_sword_150mm.stl) | 39.48 × 150.00 × 11.65 |
+| Red Grind | [STL](red-grind/red_grind_100mm.stl) | 71.61 × 100.00 × 47.36 |
+| Valkyrie Helm | [STL](valkyrie-helm/valkyrie_helm_100mm.stl) | 78.00 × 100.00 × 97.57 |
+| Goldrow | [STL](goldrow/goldrow_100mm.stl) | 100.00 × 23.58 × 22.44 |
+| 8-Bit Royal Crown | [STL](8-bit-royal-crown/8_bit_royal_crown_100mm.stl) | 100.00 × 87.10 × 43.42 |
+| Frozen Horns of the Frigid Planes | [STL](frozen-horns/frozen_horns_100mm.stl) | 100.00 × 19.66 × 71.57 |
+| 8-Bit HP Bar | [STL](8-bit-hp-bar/8_bit_hp_bar_100mm.stl) | 100.00 × 4.22 × 23.80 |
 
-| Valkyrie Helm | [Download](valkyrie-helm/valkyrie_helm_100mm.stl) | 78.00 × 100.00 × 97.57 |
-| Goldrow | [Download](goldrow/goldrow_100mm.stl) | 100.00 × 23.58 × 22.44 |
-| 8-Bit HP Bar | [Download](8-bit-hp-bar/8_bit_hp_bar_100mm.stl) | 100.00 × 4.22 × 23.80 |
-| Frozen Horns of the Frigid Planes | [Download](frozen-horns/frozen_horns_100mm.stl) | 100.00 × 19.66 × 71.57 |
+Models are converted from official Roblox meshes, with print-repair notes and previews in their folders. STL stores geometry without textures or colors. Import into Bambu Studio, select your printer and filament, inspect supports and slice for that printer.
 
-Import an STL into Bambu Studio, select your printer and filament, adjust size if needed, inspect supports and slice. G-code must be generated for your own printer configuration.
-
-This repository is private. Sign in to GitHub, open an STL, and use **Download raw file** to save it.
+This repository is private. Sign in to GitHub, open a file, and use **Download raw file** to save it.

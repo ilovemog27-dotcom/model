@@ -1,0 +1,68 @@
+{
+  "selection": "Top five results for official Roblox limited accessories, sorted by most favorited",
+  "retrieved_at_utc": "2026-11-05T09:59:10.894400+00:00",
+  "sort_metric": "Roblox catalog favoriteCount",
+  "query": "https://catalog.roblox.com/v1/search/items/details?Category=11&CreatorTargetId=1&CreatorType=User&SalesTypeFilter=2&SortType=1&Limit=30&IncludeNotForSale=true",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Valkyrie Helm",
+      "catalog_asset_id": 1365767,
+      "favorites": 667565,
+      "restrictions": [
+        "Limited"
+      ],
+      "source_url": "https://www.roblox.com/catalog/1365767/",
+      "creator": "Roblox",
+      "creator_target_id": 1
+    },
+    {
+      "rank": 2,
+      "name": "Goldrow",
+      "catalog_asset_id": 3581868178,
+      "favorites": 537564,
+      "restrictions": [
+        "Limited"
+      ],
+      "source_url": "https://www.roblox.com/catalog/3581868178/",
+      "creator": "Roblox",
+      "creator_target_id": 1
+    },
+    {
+      "rank": 3,
+      "name": "8-Bit Royal Crown",
+      "catalog_asset_id": 10159600649,
+      "favorites": 480610,
+      "restrictions": [
+        "Limited"
+      ],
+      "source_url": "https://www.roblox.com/catalog/10159600649/",
+      "creator": "Roblox",
+      "creator_target_id": 1
+    },
+    {
+      "rank": 4,
+      "name": "Frozen Horns of the Frigid Planes",
+      "catalog_asset_id": 74891470,
+      "favorites": 464682,
+      "restrictions": [
+        "Limited"
+      ],
+      "source_url": "https://www.roblox.com/catalog/74891470/",
+      "creator": "Roblox",
+      "creator_target_id": 1
+    },
+    {
+      "rank": 5,
+      "name": "8-Bit HP Bar",
+      "catalog_asset_id": 10159610478,
+      "favorites": 403744,
+      "restrictions": [
+        "Limited"
+      ],
+      "source_url": "https://www.roblox.com/catalog/10159610478/",
+      "creator": "Roblox",
+      "creator_target_id": 1
+    }
+  ]
+}
