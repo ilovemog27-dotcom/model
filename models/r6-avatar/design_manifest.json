@@ -1,0 +1,153 @@
+{
+  "design": "R6-style articulated block avatar",
+  "main_body_parts": [
+    "head",
+    "torso",
+    "left_arm",
+    "right_arm",
+    "left_leg",
+    "right_leg"
+  ],
+  "main_body_part_count": 6,
+  "assembled_height_mm": 160,
+  "units": "millimeters",
+  "joints": {
+    "neck": "swivel, snap-retained split pin",
+    "shoulders": "two friction-retained printed axle hinges",
+    "hips": "two friction-retained printed axle hinges; no knees"
+  },
+  "hardware_quantities": {
+    "shoulder_pin.stl": 2,
+    "hip_pin.stl": 2,
+    "neck_pin.stl": 1
+  },
+  "fit_test_quantities": {
+    "fit_test_block.stl": 1,
+    "fit_test_pin.stl": 1
+  },
+  "nominal_fit": {
+    "axle_diameter_mm": 6.2,
+    "moving_bore_diameter_mm": 6.6,
+    "anchor_bore_diameter_mm": 6.0,
+    "hip_fork_clearance_each_side_mm": 0.4,
+    "neck_snap_bead_diameter_mm": 6.9,
+    "neck_snap_groove_diameter_mm": 7.4
+  },
+  "collision_checks": [
+    {
+      "part": "left_arm",
+      "rotation_degrees": -120,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_arm",
+      "rotation_degrees": -60,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_arm",
+      "rotation_degrees": 0,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_arm",
+      "rotation_degrees": 60,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_arm",
+      "rotation_degrees": 120,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_arm",
+      "rotation_degrees": -120,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_arm",
+      "rotation_degrees": -60,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_arm",
+      "rotation_degrees": 0,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_arm",
+      "rotation_degrees": 60,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_arm",
+      "rotation_degrees": 120,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_leg",
+      "rotation_degrees": -90,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_leg",
+      "rotation_degrees": -45,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_leg",
+      "rotation_degrees": 0,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_leg",
+      "rotation_degrees": 45,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "left_leg",
+      "rotation_degrees": 90,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_leg",
+      "rotation_degrees": -90,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_leg",
+      "rotation_degrees": -45,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_leg",
+      "rotation_degrees": 0,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_leg",
+      "rotation_degrees": 45,
+      "torso_intersection_mm3": 0.0
+    },
+    {
+      "part": "right_leg",
+      "rotation_degrees": 90,
+      "torso_intersection_mm3": 0.0
+    }
+  ],
+  "neck_rotation_samples_degrees": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "physical_joint_fit_tested": false,
+  "bambu_studio_slicing_tested": false,
+  "notes": [
+    "Custom CAD model based on classic R6 block proportions; not a converted official Roblox avatar mesh.",
+    "Six main body parts plus five separately printed joint pins. No elbows or knees.",
+    "STLs are separate parts for assembly. Do not fuse the body parts together.",
+    "Print the fit test first; printer calibration and material affect pin fit.",
+    "Nominal 0.2 mm diameter interference at split pin anchors; the split tip supplies compliance."
+  ]
+}

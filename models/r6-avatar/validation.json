@@ -1,0 +1,185 @@
+{
+  "units": "mm",
+  "parts": [
+    {
+      "file": "head.stl",
+      "triangles": 1276,
+      "vertices": 640,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 47809.17740317099,
+      "dimensions_mm": [
+        42.0,
+        42.0,
+        35.0
+      ],
+      "sha256": "93cb6a00b695f361624224cc075ecc353c33d08d283acc2c9bde448fecb448eb"
+    },
+    {
+      "file": "torso.stl",
+      "triangles": 1844,
+      "vertices": 920,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 112541.10499651267,
+      "dimensions_mm": [
+        60.0,
+        30.0,
+        84.0
+      ],
+      "sha256": "bbfe19866d05cf86f5aba9e1c8bf708408b6f63a3ff4e273a501a7264689b3bc"
+    },
+    {
+      "file": "left_arm.stl",
+      "triangles": 272,
+      "vertices": 136,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 52975.289595068,
+      "dimensions_mm": [
+        30.0,
+        30.0,
+        60.0
+      ],
+      "sha256": "698a0afe40f03b380e7dcdae5d3a563c6d4e94285297f873a802fe3354b5a94e"
+    },
+    {
+      "file": "right_arm.stl",
+      "triangles": 272,
+      "vertices": 136,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 52975.289595068,
+      "dimensions_mm": [
+        30.0,
+        30.0,
+        60.0
+      ],
+      "sha256": "19a5810db5ee8e643ad867a6c2f5fc84cfb04c3477ecc171484a274dc12cacc4"
+    },
+    {
+      "file": "left_leg.stl",
+      "triangles": 996,
+      "vertices": 496,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 40617.02325436875,
+      "dimensions_mm": [
+        29.5,
+        30.0,
+        60.0
+      ],
+      "sha256": "9a094f5a892aff993bc51dff001ff99921c0a5e1d19bb43f1b22ed57ceacb85a"
+    },
+    {
+      "file": "right_leg.stl",
+      "triangles": 996,
+      "vertices": 496,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 40617.02325436875,
+      "dimensions_mm": [
+        29.5,
+        30.0,
+        60.0
+      ],
+      "sha256": "af83848f8c22bc1d2e36f34c3234e59e802a0ab5aa65d322d5778f2866aef0f5"
+    },
+    {
+      "file": "shoulder_pin.stl",
+      "triangles": 648,
+      "vertices": 326,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 1371.244365882767,
+      "dimensions_mm": [
+        10.0,
+        10.0,
+        45.20000076293945
+      ],
+      "sha256": "344ec1fa13cce79d343ba56b056d7fc6737ad73fc3cb0cf7e96950f215afdedd"
+    },
+    {
+      "file": "hip_pin.stl",
+      "triangles": 648,
+      "vertices": 326,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 899.5920946774119,
+      "dimensions_mm": [
+        10.0,
+        10.0,
+        31.700000762939453
+      ],
+      "sha256": "b3716e762e47c62e6b78d75bf3fa7201087e4760cac31a53ef674e1fa4bc2245"
+    },
+    {
+      "file": "neck_pin.stl",
+      "triangles": 1292,
+      "vertices": 648,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 909.0610283112636,
+      "dimensions_mm": [
+        10.0,
+        10.0,
+        28.0
+      ],
+      "sha256": "7c15ad123b382e1061f347e9c1277ae6b5b3bc296701e644557deea6683c1922"
+    },
+    {
+      "file": "fit_test_block.stl",
+      "triangles": 1068,
+      "vertices": 528,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 7914.828520033527,
+      "dimensions_mm": [
+        70.0,
+        16.0,
+        8.0
+      ],
+      "sha256": "e39a8bede081c5098ec52bcceb1c2f9c7217c3ba3901a55bf14c9e324d0b7a00"
+    },
+    {
+      "file": "fit_test_pin.stl",
+      "triangles": 648,
+      "vertices": 326,
+      "components": 1,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "volume_mm3": 475.67446223269445,
+      "dimensions_mm": [
+        10.0,
+        10.0,
+        14.199999809265137
+      ],
+      "sha256": "d8d96fe7e1603203cfb2dddeb7824162e03d86bbb882db3db5b9fa6a138d2091"
+    }
+  ],
+  "actual_stl_reimport_checks_passed": true,
+  "physical_joint_fit_tested": false,
+  "bambu_studio_slicing_tested": false,
+  "motion_checks": "20 sampled hinge rotations plus four neck rotations were checked for intersection with the torso in generate_r6.py."
+}

@@ -16,3 +16,9 @@
 Models are converted from official Roblox meshes, with print-repair notes and previews in their folders. STL stores geometry without textures or colors. Import into Bambu Studio, select your printer and filament, inspect supports and slice for that printer.
 
 This repository is private. Sign in to GitHub, open a file, and use **Download raw file** to save it.
+
+## Articulated R6 avatar
+
+[Download the R6 STL kit](r6-avatar/r6_articulated_avatar_kit.zip) · [Assembly guide and previews](r6-avatar/README.md) · [Print plate](r6-avatar/r6_print_plate.3mf)
+
+A 160 mm custom R6-style figure: six main body parts plus five printed pins, a swivel neck and shoulder/hip hinges. Print the included fit test before the full figure. Physical joint fit and slicing remain untested.
