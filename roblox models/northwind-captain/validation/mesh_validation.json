@@ -1,0 +1,26 @@
+{
+  "name": "Northwind Captain",
+  "mesh_objects": 1,
+  "triangles": 3312,
+  "vertices": 1876,
+  "uv_atlas_size": [
+    512,
+    256
+  ],
+  "fbx_export_reimport_passed": true,
+  "obj_structure_and_bounds_passed": true,
+  "native_part_count": 110,
+  "mesh_bounds_roblox_studs": [
+    2.323620974293528,
+    1.131098205523933,
+    2.437500465491796
+  ],
+  "roblox_studio_import_tested": false,
+  "wearing_in_roblox_studio_tested": false,
+  "hashes": {
+    "northwind_captain.fbx": "9f673fb00185bbf6cfefe9df85023a77d507a26577861dd24a3677841d334ca8",
+    "northwind_captain.obj": "434f5a163415d224ce9efff95c0da315fe210c8fc83376628258b958fdeeeaa4",
+    "northwind_palette.png": "361dcd99a32fa98d587bce877ab188ad6fdfa71d8efc9af6416135795db99189"
+  },
+  "source_blend_textures_packed": 1
+}

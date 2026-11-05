@@ -1,0 +1,23 @@
+{
+  "accessory_name": "Northwind Captain",
+  "actual_roblox_studio_import_tested": false,
+  "attachments": 1,
+  "base_parts": 111,
+  "binary_parser": "rbxmk 0.9.1",
+  "embedded_scripts": 0,
+  "hat_attachment_cframe": "0, -0.4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+  "notes": "Native Roblox format and assembly structure checked by model parser; Roblox Studio is unavailable in this environment.",
+  "visible_parts": 110,
+  "welds": 110,
+  "xml_to_binary_roundtrip_passed": true,
+  "canonical_properties_roundtrip_passed": true,
+  "color_channel_order": "0xFFRRGGBB; RGBbytes preserved exactly",
+  "native_ball_parts": 2,
+  "nonuniform_ball_parts": 2,
+  "native_cylinder_parts": 32,
+  "elliptical_cylinder_parts": 3,
+  "size_cframe_max_error_tolerance": 1e-05,
+  "rbxm_sha256": "3435c500f3430b52e648a464f9a14a5131afa34f1c796ea250d4028fa312c86c",
+  "rbxmx_sha256": "6b6a5c30b2a89b9ad7255dd49dbc0cd1303e19a248031439e5b06ff6b3a6d2ef",
+  "nonuniform_rendering_note": "Nonuniform Ball and Cylinder dimensions preserved in model serialization; appearance inside actual Roblox Studio not tested."
+}

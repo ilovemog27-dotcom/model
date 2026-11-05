@@ -10,3 +10,10 @@ fat
 - [R6 assembly guide and previews](models/r6-avatar/README.md)
 
 Open a file and click **Download raw file**. Sign into GitHub to access this private repository. Select your own printer and slice the files in Bambu Studio.
+
+
+## Roblox Studio models
+
+- [Roblox models folder](roblox%20models/README.md)
+- [Northwind Captain — complete Studio pack](roblox%20models/northwind-captain/northwind_captain_studio_pack.zip)
+- [Northwind Captain — native RBXM accessory](roblox%20models/northwind-captain/northwind_captain.rbxm)

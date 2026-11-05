@@ -1,0 +1,88 @@
+{
+  "name": "Northwind Captain",
+  "description": "Original peaked officer cap inspired by the Team Captain silhouette; new shape, palette and compass insignia.",
+  "native_part_count": 110,
+  "palette_rgb": {
+    "crown": [
+      22,
+      35,
+      57
+    ],
+    "band": [
+      21,
+      82,
+      91
+    ],
+    "visor": [
+      20,
+      24,
+      33
+    ],
+    "brass": [
+      201,
+      159,
+      77
+    ],
+    "steel": [
+      132,
+      160,
+      171
+    ],
+    "lining": [
+      79,
+      36,
+      48
+    ],
+    "badge": [
+      13,
+      47,
+      61
+    ],
+    "gem": [
+      91,
+      202,
+      211
+    ]
+  },
+  "roblox_bounds_studs": {
+    "min": [
+      -1.161810487146764,
+      -0.47051648539401597,
+      -1.4578231968093571
+    ],
+    "max": [
+      1.161810487146764,
+      0.6605817201299169,
+      0.9796772686824393
+    ],
+    "size": [
+      2.323620974293528,
+      1.131098205523933,
+      2.437500465491796
+    ],
+    "center": [
+      0.0,
+      0.09503261736795046,
+      -0.2390729640634589
+    ]
+  },
+  "handle_hat_attachment_position": [
+    0,
+    -0.4,
+    0
+  ],
+  "mesh_handle_hat_attachment_position": [
+    0.0,
+    -0.49503261736795046,
+    0.2390729640634589
+  ],
+  "roblox_front": "-Z",
+  "native_requires_mesh_upload": false,
+  "mesh_import_requires_roblox_asset_creation": true,
+  "roblox_studio_runtime_tested": false,
+  "notes": [
+    "Original geometry created from scratch; no Valve or TF2 meshes/textures used.",
+    "Native Studio accessory uses built-in primitives joined by Weld instances; optimized mesh exports share the design geometry.",
+    "STL is not included because this deliverable is for Roblox Studio rather than 3D printing."
+  ]
+}
